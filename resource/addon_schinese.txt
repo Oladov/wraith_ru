@@ -112,7 +112,7 @@
 		"npc_dota_creature_centaur_normal"								"半人马"
 		"npc_dota_creature_centaur_small"								"半人马跟班"
 		"npc_dota_creature_pudge_butcher"								"屠夫"
-		"npc_dota_creature_pudge_surgeon"   							"外科医生"
+		"npc_dota_creature_pudge_surgeon"								"外科医生"
 		"npc_dota_creature_pudge_killer"								"杀手"
 		"npc_dota_creature_bonus_golem_a"								"异界魔"
 		"npc_dota_creature_bonus_golem_b"								"黑曜"
@@ -272,7 +272,7 @@
 		"DOTA_Holdout_Round_StayFrosty_Quest_Title"		"第%quest_round%轮%quest_extra_text% 入侵者已击败"
 		"DOTA_Holdout_Round_WraithKing_Quest_Title"		"第%quest_round%轮%quest_extra_text% 入侵者已击败"
 		"DOTA_Holdout_Round_Lycan_Quest_Title"			"第%quest_round%轮%quest_extra_text% 入侵者已击败"
-		"DOTA_Holdout_Round_sniper_Quest_Title"       	"第%quest_round%轮%quest_extra_text% 入侵者已击败"
+		"DOTA_Holdout_Round_sniper_Quest_Title"			"第%quest_round%轮%quest_extra_text% 入侵者已击败"
 		"DOTA_Holdout_Round_flying_Quest_Title"			"第%quest_round%轮%quest_extra_text% 入侵者已击败"
 		"DOTA_Holdout_Round_magic_Quest_Title"			"第%quest_round%轮%quest_extra_text% 入侵者已击败"
 		"DOTA_Holdout_Round_Dusa_Quest_Title"			"第%quest_round%轮%quest_extra_text% 入侵者已击败"
@@ -336,7 +336,7 @@
 		"DOTA_Tooltip_modifier_item_greater_salve"									"大治疗药膏"
 		"DOTA_Tooltip_modifier_item_greater_salve_Description"						"每秒回复100点生命值。"
 		
-		"DOTA_Tooltip_Ability_item_dark_rapier"										"万圣之剑"  
+		"DOTA_Tooltip_Ability_item_dark_rapier"										"万圣之剑"
 		"DOTA_Tooltip_Ability_item_dark_rapier_Description"							"被动：伤害格挡 - 有一定概率格挡60点伤害。格挡的效果取决于装备的英雄为近战还是远程。
 被动：重生 - 使你的英雄在死后%reincarnate_time%秒后在原地以生命值和魔法值全满的形式复活。"
 		"DOTA_Tooltip_ability_item_dark_rapier_Lore"								"曾用来击杀肉山的终极之剑。"
@@ -373,7 +373,7 @@
 		"DOTA_Tooltip_modifier_item_skadi_datadriven_cold_attack"					"斯嘉蒂之剑"
 		"DOTA_Tooltip_modifier_item_skadi_datadriven_cold_attack_Description"		"移动速度减少%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%，攻击速度减少%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%。"
 
-		"DOTA_Tooltip_Ability_item_stormbearer"										"风暴载体"  
+		"DOTA_Tooltip_Ability_item_stormbearer"										"风暴载体"
 		"DOTA_Tooltip_modifier_item_stormbearer_static"								"风暴冲击"
 		"DOTA_Tooltip_modifier_item_stormbearer_static_Description"					"当受到攻击时，有30%%概率对攻击护盾的目标及其周围8个敌方单位释放闪电。"
 		"DOTA_Tooltip_Ability_item_stormbearer_Description"							"主动：风暴冲击 - 对目标单位施加一个静电护盾，护盾有30%%的几率对附近攻击护盾的目标及其周围8个敌方单位释放闪电冲击。
@@ -464,7 +464,7 @@
 		"DOTA_Tooltip_ability_item_boots_of_boush_Description"						"主动：闪烁 - 传送到最远%blink_range%距离的位置。如果受到攻击，鲍什之靴将在%blink_damage_cooldown%秒内无法使用。"
 		"DOTA_Tooltip_ability_item_boots_of_boush_Lore"								"传说中这块大陆上来去如风的刺客使用的靴子。"
 		"DOTA_Tooltip_ability_item_boots_of_boush_Note0"							"\n如果闪烁传送的距离超过最长施法距离，那么只能传送到最长距离的4/5。"
-		//"DOTA_Tooltip_Ability_item_boots_of_boush_Note1"							"Does not work nor replicates on Meepo clones." //TODO:
+		//"DOTA_Tooltip_Ability_item_boots_of_boush_Note1"							"Does not work nor replicates on Meepo clones."	//TODO:
 		"DOTA_Tooltip_ability_item_boots_of_boush_bonus_intelligence"				"+$int"
 		"DOTA_Tooltip_ability_item_boots_of_boush_bonus_hp"							"+$health"
 		"DOTA_Tooltip_ability_item_boots_of_boush_hp_regen"							"+$hp_regen"
@@ -528,7 +528,7 @@
 		"DOTA_Tooltip_ability_item_black_king_bar2_bonus_damage"					"+$damage"
 		"DOTA_Tooltip_ability_item_black_king_bar2_duration"						"天神下凡持续时间："
 
-		"DOTA_Tooltip_Ability_item_slippers_of_halcyon"								"太平屣"  //"太平屣"
+		"DOTA_Tooltip_Ability_item_slippers_of_halcyon"								"太平屣"	//"太平屣"
 		"DOTA_Tooltip_Ability_item_slippers_of_halcyon_Description"					"主动 - 冥想：持续施法，随时间治疗周围一定范围内的友方单位和防御塔。"
 		"DOTA_Tooltip_Ability_item_slippers_of_halcyon_bonus_movement"				"+$move_speed"
 
@@ -675,7 +675,7 @@
 		"DOTA_Tooltip_ability_holdout_shackleshot_Note2"							"束缚击无法被躲避。"
 		"DOTA_Tooltip_ability_holdout_shackleshot_stun_duration"					"<font color='#70EA72'>束缚时间：</font>"
 		"DOTA_Tooltip_ability_holdout_windrun"										"风行"
-		"DOTA_Tooltip_ability_holdout_windrun_Description" 							"提升移动速度并闪避一切物理攻击，同时降低周围敌人的移动速度。"
+		"DOTA_Tooltip_ability_holdout_windrun_Description"							"提升移动速度并闪避一切物理攻击，同时降低周围敌人的移动速度。"
 		"DOTA_Tooltip_ability_holdout_windrun_Lore"									"如其名所说，莱瑞蕾用疾风之力进行防御。"
 		"DOTA_Tooltip_ability_holdout_windrun_Note0"								"减速效果无视技能免疫。"
 		"DOTA_Tooltip_ability_holdout_windrun_Note1"								"风行不能闪避在其开启前就已出手的物理攻击。"
@@ -684,13 +684,13 @@
 		"DOTA_Tooltip_ability_holdout_windrun_duration"								"<font color='#70EA72'>持续时间：</font>"
 		"DOTA_Tooltip_ability_holdout_windrun_radius"								"<font color='#70EA72'>减速作用范围：</font>"
 		"DOTA_Tooltip_ability_holdout_focusfire"									"和风"
-		"DOTA_Tooltip_ability_holdout_focusfire_Description" 						"风行者受风的引领，使攻击速度达到极限，但攻击伤害降低，包括攻击特效和物品效果的伤害。<font color='#70EA72'>风行者的每次攻击都有一定几率向攻击目标周围一定范围内的另一目标射出额外一支箭。持续20秒。</font>"
+		"DOTA_Tooltip_ability_holdout_focusfire_Description"						"风行者受风的引领，使攻击速度达到极限，但攻击伤害降低，包括攻击特效和物品效果的伤害。<font color='#70EA72'>风行者的每次攻击都有一定几率向攻击目标周围一定范围内的另一目标射出额外一支箭。持续20秒。</font>"
 		"DOTA_Tooltip_ability_holdout_focusfire_Lore"								"莱瑞蕾具备狂风般地向敌人轰射出无数箭矢的无双本领——即便牺牲了不少威力。"
 		"DOTA_Tooltip_ability_holdout_focusfire_Note0"								"可以以建筑和技能免疫单位为目标。"
-		"DOTA_Tooltip_ability_holdout_focusfire_focusfire_damage_reduction" 		"%攻击力降低："
-		"DOTA_Tooltip_ability_holdout_focusfire_bonus_arrow_chance" 				"%<font color='#70EA72'>额外箭概率：</font>"
-		"DOTA_Tooltip_ability_holdout_focusfire_bonus_arrow_radius" 				"<font color='#70EA72'>额外箭范围：</font>"
-		"DOTA_Tooltip_ability_holdout_focusfire_bonus_arrows" 						"<font color='#70EA72'>额外箭数量：</font>"
+		"DOTA_Tooltip_ability_holdout_focusfire_focusfire_damage_reduction"			"%攻击力降低："
+		"DOTA_Tooltip_ability_holdout_focusfire_bonus_arrow_chance"					"%<font color='#70EA72'>额外箭概率：</font>"
+		"DOTA_Tooltip_ability_holdout_focusfire_bonus_arrow_radius"					"<font color='#70EA72'>额外箭范围：</font>"
+		"DOTA_Tooltip_ability_holdout_focusfire_bonus_arrows"						"<font color='#70EA72'>额外箭数量：</font>"
 		
 		"DOTA_Tooltip_ability_dark_seer_wall_of_discord"							"纷乱之墙"
 		"DOTA_Tooltip_ability_dark_seer_wall_of_discord_Description"				"制造一道扭曲的光墙，对任何穿过的敌方单位造成伤害。"
@@ -764,7 +764,7 @@
 		"DOTA_Tooltip_ability_holdout_axe_berserkers_call"							"狂战士的怒吼"
 		"DOTA_Tooltip_ability_holdout_axe_berserkers_call_Description"				"斧王嘲讽附近的敌方单位，强迫他们攻击自己，同时获得额外护甲。"
 		"DOTA_Tooltip_ability_holdout_axe_berserkers_call_Note0"					"效果无视技能免疫。"
-		"DOTA_Tooltip_ability_holdout_axe_berserkers_call_Lore"						"蒙哥可汗的狂吼嘲讽使敌人不得不与他作战。" 
+		"DOTA_Tooltip_ability_holdout_axe_berserkers_call_Lore"						"蒙哥可汗的狂吼嘲讽使敌人不得不与他作战。"
 		"DOTA_Tooltip_ability_holdout_axe_berserkers_call_radius"					"<font color='#70EA72'>作用范围：</font>"
 		"DOTA_Tooltip_ability_holdout_axe_berserkers_call_bonus_armor"				"护甲提升："
 		"DOTA_Tooltip_ability_holdout_axe_berserkers_call_duration"					"<font color='#70EA72'>持续时间：</font>"
@@ -1080,18 +1080,18 @@
 		"DOTA_Tooltip_ability_holdout_sonic_wave_damage_scepter"					"神杖升级伤害："
 		"DOTA_Tooltip_ability_holdout_sonic_wave_aghanim_description"				"提高伤害，降低冷却时间。"
 
-		"DOTA_Tooltip_Ability_Tower_Fortification"                   				"防御符文"
-		"DOTA_Tooltip_Ability_Tower_Fortification_Description"      			 	"Gaining bonus armor."
-		"DOTA_Tooltip_Ability_Tower_healing_aura"                   				"治疗光环"
-		"DOTA_Tooltip_Ability_Tower_healing_aura_Description"      			 		"提升周围友军的生命回复速率。"
-		"DOTA_Tooltip_health_regen"                   								"治疗光环"
-		"DOTA_Tooltip_health_regen_Description"      								"提升周围友军的生命回复速率。"
-		//"DOTA_Tooltip_armor_buff"                   								"Armor Buff"	//TODO:
-		//"DOTA_Tooltip_armor_buff_Description"      								"Increase armor by 300."
-		//"DOTA_Tooltip_armor_aura"                   								"Armor Aura"
-		//"DOTA_Tooltip_armor_aura_Description"      								"Increase armor to nearby allies."
-		//"DOTA_Tooltip_Ability_creature_unmiss"                   					"True Strike"
-		//"DOTA_Tooltip_Ability_creature_unmiss_Description"      					"Prevents your attacks from missing. True Strike does not work when attacking enemy structures."
+		"DOTA_Tooltip_Ability_Tower_Fortification"									"防御符文"
+		"DOTA_Tooltip_Ability_Tower_Fortification_Description"						"Gaining bonus armor."
+		"DOTA_Tooltip_Ability_Tower_healing_aura"									"治疗光环"
+		"DOTA_Tooltip_Ability_Tower_healing_aura_Description"						"提升周围友军的生命回复速率。"
+		"DOTA_Tooltip_health_regen"													"治疗光环"
+		"DOTA_Tooltip_health_regen_Description"										"提升周围友军的生命回复速率。"
+		//"DOTA_Tooltip_armor_buff"													"Armor Buff"	//TODO:
+		//"DOTA_Tooltip_armor_buff_Description"										"Increase armor by 300."
+		//"DOTA_Tooltip_armor_aura"													"Armor Aura"
+		//"DOTA_Tooltip_armor_aura_Description"										"Increase armor to nearby allies."
+		//"DOTA_Tooltip_Ability_creature_unmiss"									"True Strike"
+		//"DOTA_Tooltip_Ability_creature_unmiss_Description"						"Prevents your attacks from missing. True Strike does not work when attacking enemy structures."
 
 		"DOTA_Tooltip_ability_templar_assassin_refraction_holdout"					"偏折"
 		"DOTA_Tooltip_ability_templar_assassin_refraction_holdout_Lore"				"通过操控她的灵能面纱，拉娜娅让自然法则为她所用。"
@@ -1144,32 +1144,32 @@
 		"DOTA_Tooltip_ability_sandking_sand_storm_datadriven_sand_storm_radius"				"作用范围："
 		"DOTA_Tooltip_ability_sandking_sand_storm_datadriven_sand_storm_invis_delay"		"隐身续存时间："
 
-		"DOTA_Tooltip_ability_tinker_rearm_datadriven"									"再装填"
-		"DOTA_Tooltip_ability_tinker_rearm_datadriven_Description"						"持续施法 - 重置修补匠的所有物品和技能的冷却时间，并提供技能免疫效果直到持续施法结束。"
-		"DOTA_Tooltip_ability_tinker_rearm_datadriven_Lore"								"这儿换块新电池，那儿塞几枚火箭弹，鲍什不断改进现有的技术。"
-		"DOTA_Tooltip_ability_tinker_rearm_datadriven_Note0"							"再装填不能刷新的物品有黑皇杖，奥术鞋，支配头盔，迈达斯之手，刷新球，林肯法球和死灵书。"
-		"DOTA_Tooltip_ability_tinker_rearm_datadriven_aghanim_description"				"激光会折射给550范围内所有可见的敌方英雄，热导飞弹数量加倍。"
-		"DOTA_Tooltip_ability_tinker_rearm_datadriven_channel_tooltip"					"再装填所需时间："
+		"DOTA_Tooltip_ability_tinker_rearm_datadriven"										"再装填"
+		"DOTA_Tooltip_ability_tinker_rearm_datadriven_Description"							"持续施法 - 重置修补匠的所有物品和技能的冷却时间，并提供技能免疫效果直到持续施法结束。"
+		"DOTA_Tooltip_ability_tinker_rearm_datadriven_Lore"									"这儿换块新电池，那儿塞几枚火箭弹，鲍什不断改进现有的技术。"
+		"DOTA_Tooltip_ability_tinker_rearm_datadriven_Note0"								"再装填不能刷新的物品有黑皇杖，奥术鞋，支配头盔，迈达斯之手，刷新球，林肯法球和死灵书。"
+		"DOTA_Tooltip_ability_tinker_rearm_datadriven_aghanim_description"					"激光会折射给550范围内所有可见的敌方英雄，热导飞弹数量加倍。"
+		"DOTA_Tooltip_ability_tinker_rearm_datadriven_channel_tooltip"						"再装填所需时间："
 
-		"DOTA_Tooltip_ability_vengefulspirit_nether_swap_Description"					"与一个目标英雄瞬间交换位置，无论敌我。移形换位打断目标的持续施法。\n\n可用神杖升级。"
-		"DOTA_Tooltip_ability_witch_doctor_maledict_Description"						"对一个较小区域内所有敌方英雄施放诅咒，他们将每秒受到定额伤害，并且从诅咒开始每4秒根据失去的血量再受到爆发伤害。"
-		"DOTA_Tooltip_ability_bounty_hunter_track_Description"							"追踪一个敌方英雄，获得目标的真实视域，以及目标当前携带的金钱数额。被追踪者周围的友军获得移动速度提升。如果目标在被追踪期间死亡，赏金猎人和附近友方英雄都将获得一笔赏金。"
-		"DOTA_Tooltip_ability_kunkka_x_marks_the_spot_Description"						"对友方或敌方英雄使用，用 X 标记他们当前位置，数秒后将他们送回 X 标记处。在技能持续时间内，昆卡可以手动触发送回。对友方英雄使用后持续时间加倍。"
-		"DOTA_Tooltip_ability_witch_doctor_death_ward_Description"						"持续施法 - 召唤一个死亡守卫攻击敌方英雄。死亡守卫拥有700射程，每0.22秒攻击一次。3级时攻击可以弹射一次。持续8秒。\n\n可用神杖升级。"
-		"DOTA_Tooltip_ability_doom_bringer_lvl_death_Description"						"引爆敌方英雄的灵魂，造成伤害及短暂眩晕。当敌方英雄等级为特定数字的倍数或者25时将造成相当于其最大生命值20%%的额外伤害。" 
-		"DOTA_Tooltip_ability_doom_bringer_lvl_death_lvl_bonus_multiple"				"特定数字："
-		"DOTA_Tooltip_ability_necrolyte_reapers_scythe_Description"						"眩晕目标敌方英雄，然后造成基于他当前损失生命值的伤害。被死神镰刀杀死后下次复活时间将会增加%respawn_constant%秒。如果目标在死神镰刀效果下死亡，击杀者为瘟疫法师。\n\n可用神杖升级。"
-		"DOTA_Tooltip_ability_obsidian_destroyer_astral_imprisonment_Description"		"将一个目标友方或敌方英雄禁锢在星体中。被禁锢的英雄处于无敌和无法行动状态。当对一个敌方英雄使用星体禁锢时，先兆者将从他身上暂时偷取智力值。"
-		"DOTA_Tooltip_ability_shadow_demon_disruption_Description"						"将目标单位从战场上放逐，在持续时间内将其移除。回归时创造2个该单位的幻象，受暗影恶魔控制。"
-		"DOTA_Tooltip_ability_razor_static_link_Description"							"在剃刀和一个敌方英雄之间创造静电连接，偷取目标的攻击力并将其转移给剃刀。"
-		"DOTA_Tooltip_ability_rubick_spell_steal_Description"							"拉比克钻研一个敌方英雄的魔法精华之痕，学习这个英雄最后释放的技能的秘密。拉比克将可以使用这个技能，维持几分钟或直到他死亡。\n\n可用神杖升级。"
-		"DOTA_Tooltip_ability_lich_dark_ritual_Description"								"牺牲一个友方单位，将他的当前生命值转化成巫妖的魔法值。转化后附近的敌人和队友都将获得击杀该单位所得的经验。"
+		"DOTA_Tooltip_ability_vengefulspirit_nether_swap_Description"						"与一个目标英雄瞬间交换位置，无论敌我。移形换位打断目标的持续施法。\n\n可用神杖升级。"
+		"DOTA_Tooltip_ability_witch_doctor_maledict_Description"							"对一个较小区域内所有敌方英雄施放诅咒，他们将每秒受到定额伤害，并且从诅咒开始每4秒根据失去的血量再受到爆发伤害。"
+		"DOTA_Tooltip_ability_bounty_hunter_track_Description"								"追踪一个敌方英雄，获得目标的真实视域，以及目标当前携带的金钱数额。被追踪者周围的友军获得移动速度提升。如果目标在被追踪期间死亡，赏金猎人和附近友方英雄都将获得一笔赏金。"
+		"DOTA_Tooltip_ability_kunkka_x_marks_the_spot_Description"							"对友方或敌方英雄使用，用 X 标记他们当前位置，数秒后将他们送回 X 标记处。在技能持续时间内，昆卡可以手动触发送回。对友方英雄使用后持续时间加倍。"
+		"DOTA_Tooltip_ability_witch_doctor_death_ward_Description"							"持续施法 - 召唤一个死亡守卫攻击敌方英雄。死亡守卫拥有700射程，每0.22秒攻击一次。3级时攻击可以弹射一次。持续8秒。\n\n可用神杖升级。"
+		"DOTA_Tooltip_ability_doom_bringer_lvl_death_Description"							"引爆敌方英雄的灵魂，造成伤害及短暂眩晕。当敌方英雄等级为特定数字的倍数或者25时将造成相当于其最大生命值20%%的额外伤害。"
+		"DOTA_Tooltip_ability_doom_bringer_lvl_death_lvl_bonus_multiple"					"特定数字："
+		"DOTA_Tooltip_ability_necrolyte_reapers_scythe_Description"							"眩晕目标敌方英雄，然后造成基于他当前损失生命值的伤害。被死神镰刀杀死后下次复活时间将会增加%respawn_constant%秒。如果目标在死神镰刀效果下死亡，击杀者为瘟疫法师。\n\n可用神杖升级。"
+		"DOTA_Tooltip_ability_obsidian_destroyer_astral_imprisonment_Description"			"将一个目标友方或敌方英雄禁锢在星体中。被禁锢的英雄处于无敌和无法行动状态。当对一个敌方英雄使用星体禁锢时，先兆者将从他身上暂时偷取智力值。"
+		"DOTA_Tooltip_ability_shadow_demon_disruption_Description"							"将目标单位从战场上放逐，在持续时间内将其移除。回归时创造2个该单位的幻象，受暗影恶魔控制。"
+		"DOTA_Tooltip_ability_razor_static_link_Description"								"在剃刀和一个敌方英雄之间创造静电连接，偷取目标的攻击力并将其转移给剃刀。"
+		"DOTA_Tooltip_ability_rubick_spell_steal_Description"								"拉比克钻研一个敌方英雄的魔法精华之痕，学习这个英雄最后释放的技能的秘密。拉比克将可以使用这个技能，维持几分钟或直到他死亡。\n\n可用神杖升级。"
+		"DOTA_Tooltip_ability_lich_dark_ritual_Description"									"牺牲一个友方单位，将他的当前生命值转化成巫妖的魔法值。转化后附近的敌人和队友都将获得击杀该单位所得的经验。"
 	
-		"DOTA_Tooltip_ability_chen_death_persuasion_datadriven"							"神圣净化"
-		"DOTA_Tooltip_ability_chen_death_persuasion_datadriven_Description"				"立即杀死陈控制的所有其他单位。"
+		"DOTA_Tooltip_ability_chen_death_persuasion_datadriven"								"神圣净化"
+		"DOTA_Tooltip_ability_chen_death_persuasion_datadriven_Description"					"立即杀死陈控制的所有其他单位。"
 		
-		"DOTA_Tooltip_ability_ench_death_persuasion_datadriven"							"献祭"
-		"DOTA_Tooltip_ability_ench_death_persuasion_datadriven_Description"				"立即杀死魅惑魔女控制的所有其他单位。"
+		"DOTA_Tooltip_ability_ench_death_persuasion_datadriven"								"献祭"
+		"DOTA_Tooltip_ability_ench_death_persuasion_datadriven_Description"					"立即杀死魅惑魔女控制的所有其他单位。"
 	
 		"DOTA_Tooltip_ability_bane_fiends_grip_datadriven"									"魔爪"
 		"DOTA_Tooltip_ability_bane_fiends_grip_datadriven_Description"						"持续施法 - 抓住一个敌方单位，使其失去行动能力并持续受到大量伤害，同时每秒按目标最大魔法值一定比例吸取魔法。\n\n可用神杖升级。"
@@ -1183,30 +1183,30 @@
 		"DOTA_Tooltip_ability_bane_fiends_grip_datadriven_fiend_grip_duration_scepter"		"神杖升级持续时间："
 		"DOTA_Tooltip_ability_bane_fiends_grip_datadriven_aghanim_description"				"提高每秒伤害和魔法吸取量，并增加持续时间。如果敌人在祸乱之源施放魔爪期间向其攻击，那么他们会马上被施加当前等级的噩梦。"
 		
-		"DOTA_Tooltip_modifier_bane_fiends_grip_datadriven"								"魔爪"
-		"DOTA_Tooltip_modifier_bane_fiends_grip_datadriven_Description"					"使敌人无法行动并每秒吸取其5%%的魔法值。"
+		"DOTA_Tooltip_modifier_bane_fiends_grip_datadriven"									"魔爪"
+		"DOTA_Tooltip_modifier_bane_fiends_grip_datadriven_Description"						"使敌人无法行动并每秒吸取其5%%的魔法值。"
 	
-		"DOTA_Tooltip_ability_holdout_bloodseeker_thirst"								"嗜血渴望"
-		"DOTA_Tooltip_ability_holdout_bloodseeker_thirst_Description"					"提升周围所有友军单位的移动速度和敏捷。Increase all nearby allies' movement speed, and agility."
-		"DOTA_Tooltip_ability_holdout_bloodseeker_thirst_Lore"							"史德利古尔闻到血腥味就会变得无比狂热。"
-		"DOTA_Tooltip_ability_holdout_bloodseeker_thirst_bonus_agi"						"+$agi"
-		"DOTA_Tooltip_ability_holdout_bloodseeker_thirst_bonus_movement_speed"			"移动速度提升："
-		"DOTA_Tooltip_ability_holdout_bloodseeker_thirst_radius"						"光环范围："
+		"DOTA_Tooltip_ability_holdout_bloodseeker_thirst"									"嗜血渴望"
+		"DOTA_Tooltip_ability_holdout_bloodseeker_thirst_Description"						"提升周围所有友军单位的移动速度和敏捷。Increase all nearby allies' movement speed, and agility."
+		"DOTA_Tooltip_ability_holdout_bloodseeker_thirst_Lore"								"史德利古尔闻到血腥味就会变得无比狂热。"
+		"DOTA_Tooltip_ability_holdout_bloodseeker_thirst_bonus_agi"							"+$agi"
+		"DOTA_Tooltip_ability_holdout_bloodseeker_thirst_bonus_movement_speed"				"移动速度提升："
+		"DOTA_Tooltip_ability_holdout_bloodseeker_thirst_radius"							"光环范围："
 
-		"DOTA_Tooltip_holdout_bloodseeker_thirst_modifier"								"嗜血渴望"
-		"DOTA_Tooltip_holdout_bloodseeker_thirst_modifier_Description"					"移动速度提升%dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT%点，敏捷提升%dMODIFIER_PROPERTY_STATS_AGILITY_BONUS%点。"
+		"DOTA_Tooltip_holdout_bloodseeker_thirst_modifier"									"嗜血渴望"
+		"DOTA_Tooltip_holdout_bloodseeker_thirst_modifier_Description"						"移动速度提升%dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT%点，敏捷提升%dMODIFIER_PROPERTY_STATS_AGILITY_BONUS%点。"
 	
-		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven"							"震荡光弹"
-		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_Description"				"天怒法师释放一个远距离的光弹，将击中超大范围内最近的敌方单位。被击中后该单位附近一定范围内单位将受到伤害，移动速度也会减缓。"
-		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_Lore"					"侍奉苍白之巢王庭就会对身边的暗流涌动不加关注。必须要时刻明白周围最近的危险所在。"
-		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_Note0"					"如果作用范围内没有英雄或英雄处于迷雾中，该技能将没有效果。"
-		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_Note1"					"击中英雄后附近的小兵也会受到相同伤害。"
-		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_Note2"					"光弹将给予附近的400码视野，击中后将获得目标区域的视野，持续3.34秒。"
-		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_launch_radius"			"光弹射程："
-		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_slow_radius"				"伤害作用范围："
-		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_damage"					"伤害："
-		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_slow_duration"			"减速持续时间："
-		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_movement_speed_pct"		"%移动速度减缓："
+		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven"						"震荡光弹"
+		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_Description"			"天怒法师释放一个远距离的光弹，将击中超大范围内最近的敌方单位。被击中后该单位附近一定范围内单位将受到伤害，移动速度也会减缓。"
+		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_Lore"				"侍奉苍白之巢王庭就会对身边的暗流涌动不加关注。必须要时刻明白周围最近的危险所在。"
+		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_Note0"				"如果作用范围内没有英雄或英雄处于迷雾中，该技能将没有效果。"
+		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_Note1"				"击中英雄后附近的小兵也会受到相同伤害。"
+		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_Note2"				"光弹将给予附近的400码视野，击中后将获得目标区域的视野，持续3.34秒。"
+		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_launch_radius"		"光弹射程："
+		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_slow_radius"			"伤害作用范围："
+		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_damage"				"伤害："
+		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_slow_duration"		"减速持续时间："
+		"DOTA_Tooltip_ability_skywrath_mage_concussive_shot_datadriven_movement_speed_pct"	"%移动速度减缓："
 
 		"DOTA_Tooltip_ability_skywrath_mage_mystic_flare_datadriven"						"神秘之耀"
 		"DOTA_Tooltip_ability_skywrath_mage_mystic_flare_datadriven_Description"			"天怒法师运用终极魔法技能，召唤精准致命的奥术力场毁灭对手。%duration%秒期间对范围内所有敌方单位造成大量伤害。\n\n可用神杖升级。"
@@ -1290,10 +1290,10 @@
 		//"DOTA_Tooltip_ability_huskar_berserkers_blooda_Note1"								"The first stack of Berserker's Blood is added when Huskar is at 87% health. Another stack is added for every additional 7% of health missing."
 		//"DOTA_Tooltip_ability_huskar_berserkers_blooda_attack_speed_bonus_per_stack"		"BONUS ATTACK SPEED:"
 		//"DOTA_Tooltip_ability_huskar_berserkers_blooda_resistance_per_stack"				"%BONUS RESISTANCE:"
-        //
+		//
 		//"DOTA_Tooltip_modifier_huskar_berserkers_blooda"									"Berserker's Blood"
 		//"DOTA_Tooltip_modifier_huskar_berserkers_blooda_Description"						"Attack Speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% and Magic Damage Resistance by %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%."
-        //
+		//
 		//"DOTA_Tooltip_ability_forged_spirit_melting_strikea"								"Melting Strike"
 		//"DOTA_Tooltip_ability_forged_spirit_melting_strikea_Description"					"Melts away the armor of heroes hit by the spirit's attack if the spirit has enough mana. Each successive hit increases the amount of armor melted."
 		//"DOTA_Tooltip_ability_forged_spirit_melting_strikea_armor_removed"					"ARMOR REMOVED PER HIT:"
@@ -1301,7 +1301,7 @@
 		//"DOTA_Tooltip_ability_forged_spirit_melting_strikea_duration"						"DURATION:"
 		//"DOTA_Tooltip_modifier_forged_spirit_melting_strike_debuff"							"Melting Strike"
 		//"DOTA_Tooltip_modifier_forged_spirit_melting_strike_debuff_Description"				"Armor reduced by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
-        //
+		//
 		//"DOTA_Tooltip_ability_venomancer_poison_novaa"										"Poison Nova"
 		//"DOTA_Tooltip_ability_venomancer_poison_novaa_Description"							"A spreading ring of poison that does damage over time to enemy units around Venomancer.  Poison Nova cannot deal lethal damage; targets will be left with at least 1 health.\n\nUpgradable by Aghanim's Scepter."
 		//"DOTA_Tooltip_ability_venomancer_poison_novaa_Lore"									"In the Acid Jungles, creatures releasing noxious poison to their attackers is common; Venomancer spreads this plague beyond the Jidi Isle."
@@ -1314,14 +1314,14 @@
 		//"DOTA_Tooltip_ability_venomancer_poison_novaa_aghanim_description"					"Increases damage and duration, and decreases cooldown."
 		//"DOTA_Tooltip_modifier_venomancer_poison_nova"										"Poison Nova"
 		//"DOTA_Tooltip_modifier_venomancer_poison_nova_Description"							"Ticking for %dMODIFIER_PROPERTY_TOOLTIP% damage."
-        //
+		//
 		//"DOTA_Tooltip_ability_silencer_global_silencea"										"Global Silence"
 		//"DOTA_Tooltip_ability_silencer_global_silencea_Lore"								"With a shock to the ground, all magic and sound pauses, and Nortrom fulfills his prophecy."
 		//"DOTA_Tooltip_ability_silencer_global_silencea_Description"							"Silencer stops all sound, preventing enemy heroes and units on the map from casting spells.\n\nUpgradable by Aghanim's Scepter."
 		//"DOTA_Tooltip_ability_silencer_global_silencea_aghanim_description"					"Applies the current level of Curse of the Silent to all enemy Heroes."
 		//"DOTA_Tooltip_ability_silencer_global_silencea_Note0"								"This skill works on invisible and Spell Immune units, but gaining spell immunity will remove its effect."
 		//"DOTA_Tooltip_ability_silencer_global_silencea_tooltip_duration"					"DURATION:"
-        //
+		//
 		//"DOTA_Tooltip_ability_venomancer_poison_sting_1"									"Death Sting"
 		//"DOTA_Tooltip_ability_venomancer_poison_sting_1_Description"						"Adds poison damage to Venomancer's normal attacks, slowing movement speed."
 		//"DOTA_Tooltip_ability_venomancer_poison_sting_1_Lore"								"The paralytic sting of the creature which caused his transformation now belongs to the Venomancer."
@@ -1330,7 +1330,7 @@
 		//"DOTA_Tooltip_ability_venomancer_poison_sting_1_duration"							"DURATION:"
 		//"DOTA_Tooltip_ability_venomancer_poison_sting_1_damage"								"DAMAGE PER SECOND:"
 		//"DOTA_Tooltip_ability_venomancer_poison_sting_1_movement_speed"						"%SLOW:"
-        //
+		//
 		//"DOTA_Tooltip_ability_venomancer_poison_sting_2"									"Venom Sting"
 		//"DOTA_Tooltip_ability_venomancer_poison_sting_2_Description"						"Adds poison damage to Venomancer's normal attacks, slowing movement speed."
 		//"DOTA_Tooltip_ability_venomancer_poison_sting_2_Lore"								"The paralytic sting of the creature which caused his transformation now belongs to the Venomancer."
@@ -1339,7 +1339,7 @@
 		//"DOTA_Tooltip_ability_venomancer_poison_sting_2_duration"							"DURATION:"
 		//"DOTA_Tooltip_ability_venomancer_poison_sting_2_damage"								"DAMAGE PER SECOND:"
 		//"DOTA_Tooltip_ability_venomancer_poison_sting_2_movement_speed"						"%SLOW:"
-        //
+		//
 		//"DOTA_Tooltip_ability_venomancer_poison_sting_3"									"Poison Sting"
 		//"DOTA_Tooltip_ability_venomancer_poison_sting_3_Description"						"Adds poison damage to Venomancer's normal attacks, slowing movement speed."
 		//"DOTA_Tooltip_ability_venomancer_poison_sting_3_Lore"								"The paralytic sting of the creature which caused his transformation now belongs to the Venomancer."
@@ -1348,14 +1348,14 @@
 		//"DOTA_Tooltip_ability_venomancer_poison_sting_3_duration"							"DURATION:"
 		//"DOTA_Tooltip_ability_venomancer_poison_sting_3_damage"								"DAMAGE PER SECOND:"
 		//"DOTA_Tooltip_ability_venomancer_poison_sting_3_movement_speed"						"%SLOW:"
-        //
+		//
 		//"DOTA_Tooltip_modifier_poison_sting_debuff_3"										"Poison Sting"
 		//"DOTA_Tooltip_modifier_poison_sting_debuff_3_Description"							"Slowing by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% and ticking for %dMODIFIER_PROPERTY_TOOLTIP% damage."
 		//"DOTA_Tooltip_modifier_poison_sting_debuff_2"										"Venom Sting"
 		//"DOTA_Tooltip_modifier_poison_sting_debuff_2_Description"							"Slowing by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% and ticking for %dMODIFIER_PROPERTY_TOOLTIP% damage."
 		//"DOTA_Tooltip_modifier_poison_sting_debuff_1"										"Death Sting"
 		//"DOTA_Tooltip_modifier_poison_sting_debuff_1_Description"							"Slowing by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% and ticking for %dMODIFIER_PROPERTY_TOOLTIP% damage."
-	    //
+		//
 		//"DOTA_Tooltip_ability_necrolyte_reapers_scythe_datadriven"							"Reaper's Scythe"
 		//"DOTA_Tooltip_ability_necrolyte_reapers_scythe_datadriven_Description"				"Stuns the target enemy, then deals damage based on how much life it is missing. Any kill under this effect is credited to Necrophos.\n\nUpgradable by Aghanim's Scepter."
 		//"DOTA_Tooltip_ability_necrolyte_reapers_scythe_datadriven_Lore"						"The amount of death and suffering in the air increases the power of Necrophos's plague magic."
@@ -1381,12 +1381,12 @@
 		//"DOTA_Tooltip_ability_puck_dream_coil_datadriven_coil_stun_duration_scepter"		"SCEPTER BREAK STUN DURATION:"
 		//"DOTA_Tooltip_ability_puck_dream_coil_datadriven_coil_break_damage_scepter"			"SCEPTER BREAK DAMAGE:"
 		//"DOTA_Tooltip_ability_puck_dream_coil_datadriven_aghanim_description"				"Increases damage from coil breaks, increases coil duration, coil break stun goes through spell immunity."
-	    //
+		//
 		//"DOTA_Tooltip_Ability_item_rapier_datadriven"										"Divine Rapier"
 		//"DOTA_Tooltip_ability_item_rapier_datadriven_Description"							"It is immediately usable by anybody if an enemy of the owner picks it up."
 		//"DOTA_Tooltip_ability_item_rapier_datadriven_Lore"									"So powerful, it cannot have a single owner."
 		//"DOTA_Tooltip_ability_item_rapier_datadriven_damage"								"+$damage"
-        //
+		//
 		//"DOTA_Tooltip_ability_night_stalker_void_datadriven"								"Void"
 		//"DOTA_Tooltip_ability_night_stalker_void_datadriven_Description"					"Creates a damaging void that slows enemy units and deals damage in 325 radius.  Void also mini-stuns, interrupting channeling abilities. The slowing effect lasts longer at night."
 		//"DOTA_Tooltip_ability_night_stalker_void_datadriven_Lore"							"Balanar creates a vortex of infinite night, tearing opponents violently into the eternal darkness that once was."
@@ -1394,7 +1394,7 @@
 		//"DOTA_Tooltip_ability_night_stalker_void_datadriven_duration_night"					"NIGHT DURATION:"
 		//"DOTA_Tooltip_ability_night_stalker_void_datadriven_movespeed_slow"					"%MOVE SLOW:"
 		//"DOTA_Tooltip_ability_night_stalker_void_datadriven_attackspeed_slow"				"ATTACK SLOW:"
-        //
+		//
 		//"DOTA_Tooltip_ability_riki_backstab"												"Saber Edge"
 		//"DOTA_Tooltip_ability_riki_backstab_Description"									"Bonus damage is applied based on his current agility."
 		//"DOTA_Tooltip_ability_riki_backstab_Note0"											"Illusions of Riki will play Saber Edge animations, but not deal any bonus damage."
