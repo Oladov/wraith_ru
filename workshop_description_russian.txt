@@ -1,54 +1,56 @@
-Previously known as "Wraith Night: Single Lane" due to numerous update.
+Карта, ранее известная, как "Wraith Night: Single Lane" теперь получила новое воплощение и множество изменений.
 
-A survival game, inspired by the classic game, Wraith Night, that is design to be more playable when you are playing solo and shares same difficulty on playing with a partner or a team. The game is still on development and will have more rounds, items and further improvements in the future.
+Игра на выживание, вдохновленная классической версией Wraith Night, но хорошо сбалансированная как для соло игры, так и для командной. Игра всё еще развивается и в будущем будет введено еще больше новых волн, предметов и улучшений.
 
-Goal : Survive and defend your towers with your friends.
-Single Lane Map : 1 - 2 players
-Triple Lane Map : 3 - 5 players
-Current Final Round : 25 
-Goal Final Round : 35
-Version : 2.54
-Dedicated Servers : Yes
+Задача : выживайте и защищайте свои постройки вместе с друзьями.
+Single Lane карта : 1 - 2 игрока
+Triple Lane карта : 3 - 5 игроков
+Текущий финальный раунд : 25 
+Финальный раунд будет увеличен до : 35
+Версия : 2.54
+Выделенные серверы : Да
 
-All heroes and items included from the latest Dota 2 game are here. There are some slight changes to other heroes and items so that they are more playable for this custom game.
+Все герои и предметы, которые есть в текущей версии Dota 2, есть и в нашей карте. Но кроме того, некоторые способности и предметы переделаны или даже добавлены новые, для того, чтобы карта была интереснее и сбалансированнее.
 
-[IMG]https://scontent-hkg3-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/1457764_482673105242096_6548727268422625578_n.jpg?oh=39793d0b872f72e44681701e8c3a97df&oe=5613BB90[/IMG]
+[IMG]http://img42.com/kEZ8j+[/IMG]
 
-- More Items (suggestions are welcome).
-- Improve Game-play, Mechanics and etc.
-- More Rounds (suggestions are welcome).
-- Balance Heroes (need more feedback).
+- Больше предметов (ждем ваших предложений).
+- Улучшение геймплея, игровой механики и динамики.
+- Больше раундов (ждем ваших предложений).
+- Баланс героев (нужно больше отзывов).
 
-You can show your love and support on the game here:[B][URL='https://steamcommunity.com/linkfilter/?url=https://www.patreon.com/WraithNightExpansion']https://www.patreon.com/WraithNightExpansion[/URL][/B]
+Вы можете выразить свою благодарность и поддержку игре здесь:[B][URL='https://steamcommunity.com/linkfilter/?url=https://www.patreon.com/WraithNightExpansion']https://www.patreon.com/WraithNightExpansion[/URL][/B]
 
-Need your help to further improve this game (Players and fellow Developers). Feedback and suggestions are greatly appreciated. Also I'm looking for tester/ developers to help me improve the game. 
+Нам нужна ваша помощь и поддержка, чтобы и далее улучшить эту игру (игроки и разработчики). Отзывы и предложения будут приняты с благодарностью. Кроме того, я ищу тестера и разработчиков, которые помогут мне улучшить игру. 
 
-[IMG]https://scontent-hkg3-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/11760203_482674078575332_1402198304091972432_n.jpg?oh=4edef4864bafdddd242b9a5cd09f0719&oe=56490BA1[/IMG]
+[IMG]http://img42.com/U9ORc+[/IMG]
 
-[URL='http://steamcommunity.com/id/wraithnightexpansion']Yukidaruma[/URL] - Coder
-[URL='http://steamcommunity.com/profiles/76561198105225716']Nanami[/URL] - Sub Coder/ Artist
+[URL='http://steamcommunity.com/id/wraithnightexpansion']Yukidaruma[/URL] - Кодер
+[URL='http://steamcommunity.com/profiles/76561198105225716']Nanami[/URL] - Второй кодер/Художник
 
-[IMG]https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xtf1/v/t1.0-9/11694841_482673791908694_2432293260411289743_n.jpg?oh=f1e9a30134b05b99acf2662ee630376f&oe=5610FC50&__gda__=1448432395_21985b04bbdfc7d17ce7f8beb9eff28b[/IMG]
+[IMG]http://img42.com/tYIo3+[/IMG]
 
 - Hollowtide Rapier
 - Stormbearer
-- Tome of Strength, Agility and Intelligence
-- Veil of Mayaa and many more
-Changes on heroes in this game:
+- Книги Силы, Ловкости и Интеллекта
+- Veil of Mayaa и многое другое
+
+Изменения героев:
+
 Windranger
-- Change Focus Fire to Zephyr
+- Focus Fire заменени на Zephyr
 
 Zeus:
-- Change Thundergod's Wrath to Thundergod's Vengeance
+- Thundergod's Wrath заменен на Thundergod's Vengeance
 
 Keeper of the Light: 
-- Change Mana Burn to Mana Overload
+- Mana Burn заменен на Mana Overload
 
 Ogre Magi:
-- Changes on Fireblast
-- Changes on Ignite
+- Изменения в Fireblast
+- Изменения в Ignite
 
 Witch Doctor: 
-- Changes on Paralyzing Cask
+- Изменения в Paralyzing Cask
 
-And many more. You can see the complete list on the hero discussion thread.
+И еще очень много других изменений. Вы можете найти все изменения в теме с обсуждением.
