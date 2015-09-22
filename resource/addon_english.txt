@@ -398,8 +398,7 @@ Mjollnir is a Unique Attack Modifier that stacks with other Unique Attack Modifi
 		"DOTA_Tooltip_Ability_item_veil_of_mayaa"									"Veil of Mayaa"
 		"DOTA_Tooltip_weakness"														"Greater Magic Weakness"
 		"DOTA_Tooltip_weakness_Description"											"Magic damage increased by %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%."
-		"DOTA_Tooltip_ability_item_veil_of_mayaa_Description"						"Passive: Greater Magic Weakness - Emits a weakening aura that increases the magic damage enemies take in a 1350 radius.
-Active: Energy Burst - Emits a powerful burst of magical damage upon a targeted enemy unit."
+		"DOTA_Tooltip_ability_item_veil_of_mayaa_Description"						"Passive: Greater Magic Weakness - Emits a weakening aura that increases the magic damage enemies take in a 1350 radius.\nActive: Energy Burst - Emits a powerful burst of magical damage upon a targeted enemy unit."
 		"DOTA_Tooltip_ability_item_veil_of_mayaa_Lore"								"The head gear of strongest magi."
 		"DOTA_Tooltip_ability_item_veil_of_mayaa_bonus_health_regen"				"+$hp_regen"
 		"DOTA_Tooltip_ability_item_veil_of_mayaa_bonus_stats"						"+$all"
@@ -532,6 +531,7 @@ Active: Energy Burst - Emits a powerful burst of magical damage upon a targeted 
 		"DOTA_Tooltip_Ability_item_slippers_of_halcyon"								"Slippers of Halcyon"  //"Slippers of Halcyon"
 		"DOTA_Tooltip_Ability_item_slippers_of_halcyon_Description"					"Active - Meditate: While channeling, causes healing over time for all friendly units and towers in the area."
 		"DOTA_Tooltip_Ability_item_slippers_of_halcyon_bonus_movement"				"+$move_speed"
+		
 		"DOTA_Tooltip_ability_item_slippers_of_halcyon_bonus_armor"					"+$armor"
 		"DOTA_Tooltip_Ability_item_slippers_of_halcyon_radius"						"RADIUS:"
 		"DOTA_Tooltip_Ability_item_slippers_of_halcyon_hp_per_tick"					"HEAL PER TICK:"
@@ -624,6 +624,18 @@ Active: Energy Burst - Emits a powerful burst of magical damage upon a targeted 
 		"DOTA_Tooltip_ability_zuus_thundergods_vengeance_sight_duration"			"DURATION:"
 		"DOTA_Tooltip_ability_zuus_thundergods_vengeance_aghanim_description"		"Increases damage."
 
+		//"DOTA_Tooltip_ability_holdout_stifling_dagger"							"窒息之刃"	//TODO:
+		//"DOTA_Tooltip_ability_holdout_stifling_dagger_Description"				"对敌方单位造成少量纯粹伤害并减缓其速度。对英雄造成的伤害减半。"
+		//"DOTA_Tooltip_ability_holdout_stifling_dagger_Lore"						"魅影之纱成员学习到的第一个技能，中招就意味着下一次攻击要来了。"
+		//"DOTA_Tooltip_ability_holdout_stifling_dagger_Note0"						"窒息之刃不能被躲避。"
+		//"DOTA_Tooltip_ability_holdout_stifling_dagger_move_slow"					"%减速："
+		//"DOTA_Tooltip_ability_holdout_stifling_dagger_duration"					"持续时间："
+		//"DOTA_Tooltip_ability_holdout_phantom_strike"								"幻影突袭"
+		//"DOTA_Tooltip_ability_holdout_phantom_strike_Description"					"闪烁到一个友方或敌方单位身边，如果是敌方单位则在攻击该目标时获得攻击速度加成。"
+		//"DOTA_Tooltip_ability_holdout_phantom_strike_Lore"						"茉崔蒂的真丝面纱是她倒霉的目标临终所见之物。"
+		//"DOTA_Tooltip_ability_holdout_phantom_strike_bonus_max_attack_count"		"最多攻击次数："
+		//"DOTA_Tooltip_ability_holdout_phantom_strike_bonus_attack_speed"			"攻速提升："
+		//"DOTA_Tooltip_ability_holdout_phantom_strike_tooltip_range"				"距离："
 		"DOTA_Tooltip_ability_holdout_blur"											"Blur"
 		"DOTA_Tooltip_ability_holdout_blur_Description"								"The Phantom Assassin becomes hard to see by blurring her body and disappearing from the enemy minimap when near enemy heroes. Some enemy attacks miss."
 		"DOTA_Tooltip_ability_holdout_blur_Lore"									"Meditation allows a Veiled Sister to carefully anticipate her opponents in combat."
@@ -636,9 +648,12 @@ Active: Energy Burst - Emits a powerful burst of magical damage upon a targeted 
 		"DOTA_Tooltip_ability_holdout_coup_de_grace_Lore"							"A divine strike, Mortred honors her opponent by choosing them for death."
 		"DOTA_Tooltip_ability_holdout_coup_de_grace_crit_chance"					"%CRITICAL CHANCE:"
 		"DOTA_Tooltip_ability_holdout_coup_de_grace_crit_bonus"						"%CRITICAL DAMAGE:"
+		//"DOTA_Tooltip_ability_holdout_coup_de_grace_crit_radius"					"分裂范围："	//TODO:
+		//"DOTA_Tooltip_ability_holdout_coup_de_grace_crit_cleave_damage"			"%分裂伤害："
+
 
 		"DOTA_Tooltip_ability_axe_battle_rage"										"Battle Rage"
-		"DOTA_Tooltip_ability_axe_battle_rage_Description"								"<font color='#70EA72'>Sends target allied unit into a Battle Rage. When affected by Battle Rage, all damage dealt by that unit steals life.</font>"
+		"DOTA_Tooltip_ability_axe_battle_rage_Description"							"<font color='#70EA72'>Sends target allied unit into a Battle Rage. When affected by Battle Rage, all damage dealt by that unit steals life.</font>"
 		"DOTA_Tooltip_ability_axe_battle_rage_Lore"									"Mogul Khan's rage propels him through terrifying acts of brutality and destruction."
 		"DOTA_Tooltip_ability_axe_battle_rage_duration"								"<font color='#70EA72'>DURATION:</font>"
 		"DOTA_Tooltip_ability_axe_battle_rage_heal_multiplier"						"%<font color='#70EA72'>LIFESTEAL:</font>"
@@ -745,6 +760,7 @@ Active: Energy Burst - Emits a powerful burst of magical damage upon a targeted 
 		"DOTA_Tooltip_modifier_holdout_guardian_angel_buff"							"Wings of Omniscience"
 		"DOTA_Tooltip_modifier_holdout_guardian_angel_buff_Description"				"Immune to physical damage and protected by Guardian Angel."
 
+
 		"DOTA_Tooltip_ability_holdout_axe_berserkers_call"							"Berserker's Call"
 		"DOTA_Tooltip_ability_holdout_axe_berserkers_call_Description"				"Axe taunts nearby enemy units, forcing them to attack him, while he gains bonus armor during the duration."
 		"DOTA_Tooltip_ability_holdout_axe_berserkers_call_Note0"					"Affects units with magic immunity."
@@ -843,6 +859,7 @@ Active: Energy Burst - Emits a powerful burst of magical damage upon a targeted 
 		"DOTA_Tooltip_ability_holdout_marksmanship_Lore"							"The Drow Ranger is the epitome of archery prowess."
 		"DOTA_Tooltip_ability_holdout_marksmanship_marksmanship_agility_bonus"		"BONUS AGILITY:"
 		"DOTA_Tooltip_ability_holdout_marksmanship_radius"							"<font color='#70EA72'>RADIUS:</font>"
+
 
 		"DOTA_Tooltip_ability_holdout_blade_fury"									"Blade Fury"
 		"DOTA_Tooltip_ability_holdout_blade_fury_Description"						"Causes a bladestorm of destructive force around Juggernaut, rendering him immune to magic and dealing damage to nearby enemy units.  <font color='#70EA72'>When Blade Fury deals damage, it has a chance to trigger Blade Dance.  During Blade Fury, Juggernaut has a chance to dodge incoming physical attacks.</font>"
@@ -1065,6 +1082,7 @@ Active: Energy Burst - Emits a powerful burst of magical damage upon a targeted 
 
 		"DOTA_Tooltip_Ability_Tower_Fortification"                   				"Fortification"
 		"DOTA_Tooltip_Ability_Tower_Fortification_Description"      				"Gaining bonus armor per round."
+		//"DOTA_Tooltip_Ability_Tower_healing_aura"                   				"治疗光环"	//TODO:
 		"DOTA_Tooltip_Ability_Tower_healing_aura_Description"      			 		"Increase health regeneration to nearby allies."
 		"DOTA_Tooltip_health_regen"                   								"Healing Aura"
 		"DOTA_Tooltip_health_regen_Description"      								"Increase health regeneration to nearby allies."
