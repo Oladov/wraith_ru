@@ -38,7 +38,7 @@ Triple Lane карта : 3 - 5 игроков
 Изменения героев:
 
 Windranger
-- Focus Fire заменени на Zephyr
+- Focus Fire заменен на Zephyr
 
 Zeus:
 - Thundergod's Wrath заменен на Thundergod's Vengeance
