@@ -561,7 +561,7 @@ Mjollnir is a Unique Attack Modifier that stacks with other Unique Attack Modifi
 		"DOTA_Tooltip_ability_item_tome_of_strength_Description"					"Grants a permanent 10 Strength boost."
 		"DOTA_Tooltip_ability_item_tome_of_agility"									"Tome of Agility"
 		"DOTA_Tooltip_ability_item_tome_of_agility_Description"						"Grants a permanent 10 Agility boost."
-		"DOTA_Tooltip_tome_strenght_modifier"										"Bonus strength"
+		"DOTA_Tooltip_tome_strenght_modifier"										"Bonus strength"	//TODO: Check lang files on duplicate strings
 
 		"DOTA_Tooltip_ability_item_Scroll_of_intellect"								"Scroll of Intelligence"
 		"DOTA_Tooltip_ability_item_Scroll_of_intellect_Description"					"Grants a permanent 1 Intelligence boost."
@@ -573,7 +573,7 @@ Mjollnir is a Unique Attack Modifier that stacks with other Unique Attack Modifi
 		"DOTA_Tooltip_ability_item_Scroll_of_agility_Description"					"Grants a permanent 1 Agility boost."
 		"DOTA_Tooltip_Ability_item_Scroll_strenght_Note0"							"Scroll of Agility will be automatically used once you bought."
 
-		"DOTA_Tooltip_tome_strenght_modifier"										"Bonus strength"
+		"DOTA_Tooltip_tome_strenght_modifier"										"Bonus strength"	//TODO: Check lang files on duplicate strings
 		"DOTA_Tooltip_tome_strenght_modifier_Description"							"Bonus %dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS% strength from used scrolls or tomes."
 		"DOTA_Tooltip_Ability_item_tome_strenght_Note0"								"Tome of Strength will be automatically used once you bought."
 		"DOTA_Tooltip_tome_agility_modifier"										"Bonus agility"
